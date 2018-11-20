@@ -1,4 +1,4 @@
-# intro-to-redux-facilitation-code
+# Intro to Redux Facilitation Code
 
 For use with Launch Academy's Intro to Redux Facilitation.
 
