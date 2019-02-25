@@ -26,6 +26,7 @@ const addOneButton = document.getElementById('add-to-counter')
 const ADD_ONE = 'ADD_ONE'
 
 const addOne = () => {
+  debugger;
   return(
     { type: ADD_ONE }
   )
